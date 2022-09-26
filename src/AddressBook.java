@@ -25,4 +25,8 @@ public class AddressBook{
         }
         return null;
     }
+
+    public void method(){
+        System.out.println("test");
+    }
 }
